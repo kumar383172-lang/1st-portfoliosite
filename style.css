@@ -1,0 +1,20 @@
+
+.navbar{background-color: rgb(90, 171, 128);
+border-bottom: 1px solid black;
+
+
+}
+.ak{
+    display:flex;
+    gap:5px;
+    align-items: center;
+    color: aliceblue;
+}
+.ak img{
+    border:2px solid rgb(252, 252, 252);
+    border-radius: 50%;
+}
+.adiface{
+    border:1px solid black;
+    border-radius:25px;
+}
